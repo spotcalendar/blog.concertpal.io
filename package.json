@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@mdx-js/mdx": "^3.1.0",
-    "@tailwindcss/typography": "^0.5.16",
     "axios": "^1.7.9",
     "clsx": "^2.1.1",
     "framer-motion": "^12.4.3",
@@ -26,6 +25,8 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.16",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
@@ -33,6 +34,7 @@
     "eslint-config-next": "15.1.7",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
+    "tailwindcss-animate": "^1.0.7",
     "typescript": "^5"
   }
 }
